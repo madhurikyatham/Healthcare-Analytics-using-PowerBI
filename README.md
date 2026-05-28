@@ -42,8 +42,6 @@ The healthcare dataset includes features like Date, ID, Gender, Age, Race, Momen
 
 #### Visit Trends and Patterns:
 
-* Daily Visits: The daily visitor trend shows a gradual increase from the start of each month, peaking towards the end, and then dropping on the last day. This suggests a higher influx of visitors in the final week of every month.
-
 * Monthly Visits: From April to October, there was a noticeable increase in visitor counts, particularly during the summer and rainy seasons. This trend indicates that seasonal factors significantly impact hospital traffic.
 
 * Yearly Visits: The Visitor counts increased by 5.8% from 2019 to 2020, suggesting either an increase in health issues or growing trust in the hospital’s services. This rise may reflect both higher demand for healthcare and improved patient satisfaction.
